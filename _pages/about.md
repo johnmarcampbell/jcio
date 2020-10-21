@@ -4,26 +4,41 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Data Scientist and computational nuclear physics PhD with 8+ years experience in statistical modeling, machine learning, experimental design, productionalizing predictive models, processing terabyte-scale data sets with billions of records, opti-mizing processing pipelines for distributed computing, and communicating technical concepts to non-technical audiences.  
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+# Experience  
+---  
+### Senior Data Scientist - Afiniti  
+**Dec 2018 -- Present**  
+ * Develop, maintain, and deploy models that serve 3M+ monthly active users  
+ * Increase customer retention for a national telecommunications company, increasing revenue by \$102M/year.  
+ * Reduced subscription cancellations for a well-known satellite radio vendor by 2.5%, generating a projected $16M/year in increased revenue.  
+ * Developed AI-driven task-assignment system for a pharmacy which increased productivity by 12% and allowed staffing to be reduced by 48 FTE, saving $1.4M/year.  
+ * Manage small teams of data scientists, and coordinate support personnel like business analysts and ETL engineers.  
+ * Work with client-facing teams to develop business insights that inform contract negotiations.  
 
-## Features
+### Data Science Fellow - The Data Incubator  
+**Sep 2018 -- Nov 2018**  
+ * Selected as one of 30 Fellows from a pool of over 3,000 applicants.  
+ * Developed an unsupervised document classifier to characterize 23 years of congressional speeches (140 million words).  
+ * Wrote a custom web scraper to download and parse 560k web pages; implemented a heuristic matching engine to annotate resulting unstructured text.  
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+### Graduate Research Assistant - Ohio State University  
+**Feb 2012 -- Apr 2018**  
+ * Performed experimental nuclear physics research funded by the National Science Foundation to study nuclear matter under extreme conditions.  
+ * Analyzed 11 TB of data describing collisions between atomic nuclei.  
+ * Used nonlinear multivariate regression to probe the shape of ultra-microscopic systems. Implemented Monte Carlo techniques to generate synthetic data to understand background signatures.  
+ * Designed custom data structures which reduced the size-on-disk of our data by 90%.  
+ * Regularly led teams of 4 to 6 scientists in extended periods of fast-paced data collection (20 TB/day) where prolonged downtime was unacceptable.  
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+# Education  
+---  
+
+**PhD - Computational Nuclear Physics**  
+Ohio State University - May 2018  
+
+**MSc - Physics**  
+Ohio State University - Feb 2012  
+
+**BSc - Physics**  
+University of North Florida - May 2009  
